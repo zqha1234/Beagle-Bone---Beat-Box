@@ -1,0 +1,1 @@
+arm-linux-gnueabihf-gcc CMakeFiles/wave_player_cmake.dir/src/audioGenerator.c.o CMakeFiles/wave_player_cmake.dir/src/audioMixer.c.o CMakeFiles/wave_player_cmake.dir/src/main.c.o CMakeFiles/wave_player_cmake.dir/src/output.c.o CMakeFiles/wave_player_cmake.dir/src/periodTimer.c.o -o wave_player_cmake  ../hal/libhal.a -lasound -lpthread 
